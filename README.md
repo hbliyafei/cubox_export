@@ -1,7 +1,7 @@
 # Cubox export
 将 cubox 内容导出并删除原始内容
 
-## 适用
+## 使用
 1. 获取 token 内容
 2. 调用方法
 ```python
